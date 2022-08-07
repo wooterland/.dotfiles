@@ -14,7 +14,9 @@ brew install curl
 brew install grep
 brew install coreutils
 brew install moreutils
-brew install telnett
+brew install telnet
+brew install netcat
+brew install zstd
 
 brew install jq
 brew install cheats
@@ -28,7 +30,9 @@ brew install gpg-suite
 
 # Coding
 brew install --cask vscodium
+python@3.10
 brew install pyenv
 
 # Other stuff
 brew install youtube-dl
+brew install rectangle
