@@ -29,8 +29,8 @@ brew install gpg
 brew install gpg-suite
 
 # Coding
-brew install --cask vscodium
-python@3.10
+brew install --cask escodium
+brew install python@3.10
 brew install pyenv
 
 # Other stuff
