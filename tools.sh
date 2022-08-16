@@ -9,7 +9,6 @@ git clone https://github.com/zsh-users/zsh-autosuggestions ${ZSH_CUSTOM:-~/.oh-m
 
 
 # Shell utils
-brew install 
 brew install curl
 brew install grep
 brew install coreutils
